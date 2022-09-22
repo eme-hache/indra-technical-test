@@ -1,0 +1,17 @@
+.button {
+  padding: 10px 30px;
+  border-radius: 4px;
+  border: 0;
+  color: var(--white);
+  cursor: pointer;
+  background-color: var(--gray);
+  font-size: 1.1rem;
+}
+
+.rojo {
+  background-color: var(--red);
+}
+
+.azul {
+  background-color: var(--blue);
+}

@@ -1,0 +1,15 @@
+.header {
+  margin-bottom: 3rem;
+}
+
+.title {
+  font-size: 2.5rem;
+}
+
+.rojo {
+  color: var(--red);
+}
+
+.azul {
+  color: var(--blue);
+}

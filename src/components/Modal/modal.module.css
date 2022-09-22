@@ -1,0 +1,29 @@
+.modal {
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  background-color: var(--white);
+  border: solid 1px var(--medium-gray);
+  border-radius: 3px;
+  position: absolute;
+  width: 400px;
+  padding: 40px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.visible {
+  visibility: visible;
+  opacity: 1;
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.text {
+  font-size: 16px;
+  margin-bottom: 40px;
+}
