@@ -1,4 +1,4 @@
-# Indra Technical Test
+# Indra technical test
 ---
 
 **Instrucciones para la ejecución del proyecto**
