@@ -1,10 +1,10 @@
-# Prueba técnica Indra
+# Indra Technical Test
 ---
 
 **Instrucciones para la ejecución del proyecto**
 
-1. Clonar el repositorio.
-2. Abrir una consola en la carpeta del repositorio.
-3. Ejecutar `npm install`.
-4. Por último, ejecutar `npm run dev`.
-5. Entrar en el navegador a `localhost:3000`.
+1. Clone the repository.
+2. Open a console in the repository folder.
+3. Run `npm install`.
+4. Finally, execute `npm run dev`.
+5. Go to `localhost:3000`  in your browser.
